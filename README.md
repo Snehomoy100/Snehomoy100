@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Snehomoy Maitra</h1>
+<h1 align="center">Hi Dev 👋, I'm Snehomoy Maitra</h1>
 <h3 align="center">A passionate Software Engineering Undergrad from Kolkata, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehomoy100&label=Profile%20views&color=0e75b6&style=flat" alt="snehomoy100" /> </p>
