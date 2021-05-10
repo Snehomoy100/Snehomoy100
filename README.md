@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://snehomoymaitraportfolio.netlify.app/](https://snehomoymaitraportfolio.netlify.app/)
 
-- 💬 Ask me about **React, MERN,Node**
+- 💬 Ask me about **React, MERN, Node**
 
 - 📫 How to reach me **maitrasnehomoy@gmail.com**
 
