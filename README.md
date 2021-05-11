@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **maitrasnehomoy@gmail.com**
 
-- 🔗 Connect with me at LinkedIn **https://www.linkedin.com/in/snehomoy-maitra-03ba69189/**
-
 - 💻 Checkout my LeetCode profile **https://leetcode.com/maitrasnehomoy/**
 
 <h3 align="left">Connect with me:</h3>
