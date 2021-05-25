@@ -1,5 +1,6 @@
 <h1 align="center">Hi Dev 👋, I'm Snehomoy Maitra.</h1>
 <h3 align="center">A passionate Software Engineering Undergrad from India.</h3>
+<h3 align="center">Currently in my sophomore year of my B.Tech in Computer Science & Engineering from UEMK.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehomoy100&label=Profile%20views&color=0e75b6&style=flat" alt="snehomoy100" /> </p>
 
