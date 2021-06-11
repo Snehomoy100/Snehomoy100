@@ -1,5 +1,4 @@
 <h1 align="center">Hi Dev 👋, I'm Snehomoy Maitra.</h1>
-<h1></h1>
 <img src="https://github.com/Snehomoy100/Snehomoy100/blob/main/snehomoy.jpg"></img>
 <h3 align="center">A passionate Software Engineering Undergrad from India.</h3>
 <h3 align="center">Currently in sophomore year of my B.Tech in Computer Science & Engineering from UEMK.</h3>
