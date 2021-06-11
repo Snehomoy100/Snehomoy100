@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Machine Learning** & planning to learn **Typescript**.
 
+- 💻 Checkout my LeetCode profile **https://leetcode.com/maitrasnehomoy/**
+
 - 👨‍💻 All of my projects are available at [https://snehomoymaitraportfolio.netlify.app/](https://snehomoymaitraportfolio.netlify.app/)
 
 - 💬 Ask me about **MERN, JavaScript & Java**
 
 - 📫 How to reach me **maitrasnehomoy@gmail.com**
-
-- 💻 Checkout my LeetCode profile **https://leetcode.com/maitrasnehomoy/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
