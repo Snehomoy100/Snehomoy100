@@ -9,15 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/snehomoymaitra1" target="blank"><img src="https://img.shields.io/twitter/follow/snehomoymaitra1?logo=twitter&style=for-the-badge" alt="snehomoymaitra1" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning** & planning to learn **Typescript**.
+- 📫 How to reach me **maitrasnehomoy@gmail.com**
+
+- Check out my Resume **https://drive.google.com/file/d/1I2h2WDtO1JuE73gWYq4rF0nC9kibr71E/view?usp=sharing**
 
 - 💻 Checkout my LeetCode profile **https://leetcode.com/maitrasnehomoy/**
 
-- 👨‍💻 All of my projects are available at [https://snehomoymaitraportfolio.netlify.app/](https://snehomoymaitraportfolio.netlify.app/)
-
 - 💬 Ask me about **MERN, JavaScript & Java**
 
-- 📫 How to reach me **maitrasnehomoy@gmail.com**
+- 🌱 I’m currently learning **Machine Learning** & planning to learn **Typescript**.
+
+- 👨‍💻 All of my projects are available at [https://snehomoymaitraportfolio.netlify.app/](https://snehomoymaitraportfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
