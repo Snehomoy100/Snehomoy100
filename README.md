@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **MERN, JavaScript & Java**
 
-- 🌱 I’m currently learning **Machine Learning** & planning to learn **Typescript**.
+- 🌱 I’m currently learning **Data Structures & Algorithms** & planning to learn **Machine Learning & Blockchain**.
 
 - 👨‍💻 All of my projects are available at [https://snehomoymaitraportfolio.netlify.app/](https://snehomoymaitraportfolio.netlify.app/)
 
