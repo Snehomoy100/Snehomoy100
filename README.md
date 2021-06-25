@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **maitrasnehomoy@gmail.com**
 
-
 - Check out my Resume **https://bit.ly/2TRmloU**
 
 - 💻 Checkout my LeetCode profile **https://leetcode.com/maitrasnehomoy/**
