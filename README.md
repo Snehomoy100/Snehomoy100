@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms** & planning to learn **Machine Learning & Blockchain**.
 
-- 👨‍💻 All of my projects are available at [https://snehomoymaitraportfolio.netlify.app/](https://snehomoymaitraportfolio.netlify.app/)
+- 👨‍💻 Personal Portfolio Website **https://snehomoymaitraportfolio.netlify.app/**
 
 
 <h3 align="left">Languages and Tools:</h3>
