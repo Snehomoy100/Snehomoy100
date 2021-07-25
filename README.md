@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **MERN, JavaScript & Java**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms** & planning to learn **Machine Learning & Blockchain**.
+- 🌱 I’m currently learning **Data Structures & Algorithms** & planning to learn **Machine Learning**.
 
 - 👨‍💻 Personal Portfolio Website -> **https://snehomoymaitraportfolio.netlify.app/**
 
