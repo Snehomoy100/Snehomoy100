@@ -13,7 +13,7 @@
 
 - 📄 Check out my Resume -> **https://bit.ly/2TRmloU**
 
-- 💻 Checkout my LeetCode profile ->**https://leetcode.com/maitrasnehomoy/**
+- 💻 Checkout my LeetCode profile -> **https://leetcode.com/maitrasnehomoy/**
 
 - 🪆 My stackoverflow profile ->  **https://stackoverflow.com/users/16344961/snehomoy100**
 
