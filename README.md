@@ -1,3 +1,4 @@
+<h1 align="center">Hello Devs 👋, It's Snehomoy Maitra here !</h1>
 <img src="https://github.com/Snehomoy100/Snehomoy100/blob/main/snehomoy.jpg"></img>
 <h3 align="center">A passionate Software Engineering Undergrad from Kolkata, 🇮🇳</h3>
 <h3 align="center">Currently in the junior year of my B.Tech in Computer Science & Engineering from University of Engineering & Management, Kolkata.</h3>
