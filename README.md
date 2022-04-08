@@ -1,7 +1,7 @@
 <h1 align="center">Hello Devs 👋, It's Snehomoy Maitra here !</h1>
 <img src="https://github.com/Snehomoy100/Snehomoy100/blob/main/snehomoy.jpg"></img>
 <h3 align="center">A passionate Software Engineering Undergrad from Kolkata, 🇮🇳</h3>
-<h3 align="center">Currently in the junior year of my B.Tech e & Engineering from University of Engineering & Management, Kolkata.</h3>
+<h3 align="center">Currently in the junior year of my B.Tech in Computer Science & Engineering from University of Engineering & Management, Kolkata.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehomoy100&label=Profile%20views&color=0e75b6&style=flat" alt="snehomoy100" /> </p>
 
