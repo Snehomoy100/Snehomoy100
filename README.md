@@ -17,7 +17,7 @@
 
 - 🪆 My stackoverflow profile ->  **https://stackoverflow.com/users/16344961/snehomoy100**
 
-- 💬 Ask me about **MERN, JavaScript & Java**
+
 
 - 🌱 I’m currently learning **Data Structures & Algorithms** & planning to learn **Machine Learning**.
 
