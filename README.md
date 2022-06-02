@@ -13,8 +13,6 @@
 
 - 📄 Check out my Resume -> **https://bit.ly/2TRmloU**
 
-- 💻 Checkout my LeetCode profile -> **https://leetcode.com/maitrasnehomoy/**
-
 - 🪆 My stackoverflow profile ->  **https://stackoverflow.com/users/16344961/snehomoy100**
 
 - 💬 Ask me about **MERN, JavaScript & Java**
