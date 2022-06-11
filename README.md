@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/snehomoymaitra1" target="blank"><img src="https://img.shields.io/twitter/follow/snehomoymaitra1?logo=twitter&style=for-the-badge" alt="snehomoymaitra1" /></a> </p>
 
-- 📫 How to reach me -> **maitrasnehomoy@gmail.com**
+
 
 - 📄 Check out my Resume -> **https://bit.ly/2TRmloU**
 
