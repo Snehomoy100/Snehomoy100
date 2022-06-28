@@ -10,7 +10,6 @@
 
 - 📫 How to reach me -> **maitrasnehomoy@gmail.com**
 
-- 📄 Check out my Resume -> **https://bit.ly/2TRmloU**
 
 - 🪆 My stackoverflow profile ->  **https://stackoverflow.com/users/16344961/snehomoy100**
 
