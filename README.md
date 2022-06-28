@@ -10,7 +10,6 @@
 
 - 📫 How to reach me -> **maitrasnehomoy@gmail.com**
 
-
 - 🪆 My stackoverflow profile ->  **https://stackoverflow.com/users/16344961/snehomoy100**
 
 - 💬 Ask me about **MERN, JavaScript & Java**
