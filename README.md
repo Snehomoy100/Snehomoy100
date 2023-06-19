@@ -10,7 +10,7 @@
 
 - 📫 How to reach me -> **maitrasnehomoy@gmail.com**
 
-- 👨‍💻 All of my profile links ->  **https://stackoverflow.com/users/16344961/snehomoy100**
+- 👨‍💻 All of my profile links ->  **linkt.ree/snehomoy**
 
 - 💬 Ask me about **Full Stack Web Development, DevOps, Artificial Intelligence**
 
