@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my profile links ->  **<a href ="https://linktr.ee/snehomoy">Snehomoy's Linktree</a>**
 
-- 💬 Ask me about **Full Stack Web Development, DevOps, Artificial Intelligence**
+- 💬 Ask me about **Full Stack Web Development, DevOps & Artificial Intelligence**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms** & planning to learn **Machine Learning**.
 
