@@ -1,4 +1,4 @@
-<h1 align="center">Hi, It's Sneh here!</h1>
+<h1 align="center">Hi, Sneh here!</h1>
 <h3 align="center">A passionate Software Engineer from Kolkata, 🇮🇳</h3>
 <h3 align="center">Currently working as a Software Engineer at <a href="https://clevertap.com">CleverTap</a></h3>
 
